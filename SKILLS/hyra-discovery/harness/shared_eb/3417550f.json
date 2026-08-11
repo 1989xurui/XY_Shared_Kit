@@ -1,0 +1,11 @@
+{
+  "id": "3417550f",
+  "ts": 1785367481.0994596,
+  "task": "XYDrugComboTask",
+  "family": "medical",
+  "sparsity": 0.16666666666666666,
+  "score": 5.3471,
+  "n_drugs": null,
+  "won_by_parsimony": true,
+  "archetype": "sparse_subset"
+}

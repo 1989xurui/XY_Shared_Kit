@@ -1,0 +1,8 @@
+# Hyra-Local — scientific-discovery harness (self-contained, no external API)
+#
+# Pure Python standard library ONLY. No pip install required.
+#   modules used: csv, json, os, sys, math, random, argparse,
+#                 subprocess, statistics, re, time, dataclasses
+#   NO numpy / scipy / torch / sklearn / pandas.
+#
+# Requires Python >= 3.11

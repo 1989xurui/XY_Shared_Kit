@@ -1,0 +1,10 @@
+{
+  "id": "256c4893",
+  "ts": 1784716003.7935948,
+  "task": "AsdAdhdTask",
+  "family": "medical",
+  "sparsity": 1.0,
+  "score": 154.5,
+  "n_denovo_hits": 20,
+  "archetype": "full_candidate_set"
+}

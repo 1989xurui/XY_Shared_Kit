@@ -1,0 +1,25 @@
+{
+  "id": "65794fe1",
+  "ts": 1784710620.7058563,
+  "genome": {
+    "KMT2C": 1,
+    "MSH2": 1,
+    "TRDN": 1
+  },
+  "summary": "genes=KMT2C,MSH2,TRDN",
+  "task": "AsdAdhdTask",
+  "score": 55.5,
+  "val_r2": 55.5,
+  "test_r2": null,
+  "cv_adj": null,
+  "baseline_test_r2": null,
+  "beats_baseline": null,
+  "selected": [
+    "KMT2C",
+    "MSH2",
+    "TRDN"
+  ],
+  "inter": null,
+  "kind": null,
+  "beats_ref": null
+}

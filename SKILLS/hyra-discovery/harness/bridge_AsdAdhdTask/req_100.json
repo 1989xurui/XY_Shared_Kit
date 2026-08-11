@@ -1,0 +1,5 @@
+{
+  "id": 100,
+  "system": "auto-proposer",
+  "prompt": "genes=DNMT3A,TTN,FOXP2,RBM20,CACNA1C,GNAO1,TCF4,CDKL5"
+}

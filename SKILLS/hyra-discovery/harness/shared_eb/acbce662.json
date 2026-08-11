@@ -1,0 +1,10 @@
+{
+  "id": "acbce662",
+  "ts": 1784710642.471925,
+  "task": "AsdAdhdTask",
+  "family": "medical",
+  "sparsity": 0.7142857142857143,
+  "score": 115.5,
+  "n_denovo_hits": 14,
+  "archetype": "full_candidate_set"
+}

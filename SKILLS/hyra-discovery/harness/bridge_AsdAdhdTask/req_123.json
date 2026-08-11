@@ -1,0 +1,5 @@
+{
+  "id": 123,
+  "system": "auto-proposer",
+  "prompt": "genes=MSH2,TRDN,RERE,DNMT3A,SATB2,BMPR1A,CACNA1C,SOX5,MED13L,CREBBP,NF1,TCF4"
+}
